@@ -1,0 +1,6 @@
+{
+  "name": "مرکز سبک زندگی و تراپی مسیر مسافر",
+  "description": "صفحه فرود جامع، سریع و انیمیشنی مرکز روان‌درمانی و رهایی از اعتیاد سبک زندگی مسیر مسافر (mmosafer.com) به همراه پخش صوت، پادکست رادیو مسافر و پکیج دانلود مستقیم زیپ برای هاست",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
